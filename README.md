@@ -26,7 +26,8 @@ You can find the source code for XERO in the following directories:
 
 Here's a sneak peek of what XERO looks like:
 
-![XERO Preview](preview.png)
+![XERO Preview](github/xero.gif)
+
 
 ## Contributing
 
