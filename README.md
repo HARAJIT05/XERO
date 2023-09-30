@@ -1,6 +1,6 @@
 # XERO
 
-![XERO Logo](logo.png)
+![XERO Logo](github/XERO.png)
 
 Welcome to the XERO project repository!
 
